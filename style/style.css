@@ -1,0 +1,30 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color:orange;
+  border:7px solid black;
+}
+
+th,
+td,
+tr {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+.ligne1 {
+  height: 180px;
+}
+.ligne2 {
+  height: 25px;
+}
+.ligne3 {
+  height: 500px;
+}
+.ligne4 {
+  height: 50px;
+}
+.colonne1 {
+  width: 250px;
+}
+
+
